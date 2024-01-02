@@ -11,7 +11,7 @@
         "architecture": "esp32",
         "version": "1.0.0",
         "category": "ESP32",
-        "url": "https://github.com/E-Lagori/Modules/releases/download/v1.0.0/Arduino-E-Lagori_1_0_0.zip",
+        "url": "https://github.com/DocMonster7/raw_data_serve/releases/download/v1.0.0/Arduino-E-Lagori_1_0_0.zip",
         "archiveFileName": "Arduino-E-Lagori_1_0_0.zip",
         "checksum": "SHA-256:9b250ccad916fda1ab04ccabd8a78cc355256c0abf04bfcbb76ff9e284a500b8",
         "size": "249482060",
